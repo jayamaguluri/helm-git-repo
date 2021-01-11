@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  repotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-11T22:13:38.000720892Z"
+    description: Repo demo in Helm using ChartMuseum
+    digest: 2d8b2123d9a588390b94d2861e162690c9ea9a43ccb90b0a881fe6101356514d
+    name: repotest
+    type: application
+    urls:
+    - repotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-11T22:13:37.999617126Z"
